@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Learning-platforms/static/css/main.39c09a34.css",
+    "main.js": "/Learning-platforms/static/js/main.b530f95b.js",
+    "index.html": "/Learning-platforms/index.html",
+    "main.39c09a34.css.map": "/Learning-platforms/static/css/main.39c09a34.css.map",
+    "main.b530f95b.js.map": "/Learning-platforms/static/js/main.b530f95b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c09a34.css",
+    "static/js/main.b530f95b.js"
+  ]
+}
